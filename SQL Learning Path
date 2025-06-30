@@ -1,0 +1,25 @@
+SQL Introduction
+
+Data Types in SQL
+•	Numeric Data Types
+•	Date & Time Data Types
+•	String Data Types
+User Maintenance Commands
+•	Create User Command
+•	Grant Command
+•	Alter User Command
+•	Drop User Command
+SQL Commands – DDL, DML, DRL/DQL, DCL, TCL
+
+Types of Operators
+Types of Constraints
+Types of SQL Joins
+About Views
+About Indexes
+Procedures
+User-Defined Functions
+Cursors
+Triggers
+Built-in-Functions
+Set Operators
+Sub Queries
